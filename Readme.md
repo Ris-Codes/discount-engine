@@ -72,7 +72,7 @@ The Discount Engine is a Go-based web application designed to calculate and appl
 ```json
 {
     "discount_amount": 20,
-    "fianl_total": 100,
+    "final_total": 100,
     "applied_rules": [
         "rule_2"
     ]
